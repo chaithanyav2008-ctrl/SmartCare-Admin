@@ -1,0 +1,6 @@
+{
+  "name": "SmartCare – Smart Healthcare Appointment Booking System",
+  "description": "Full-stack healthcare appointment booking platform with Patient, Doctor, and Admin portals, real-time slot management, medical records, notifications, and AI health guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
